@@ -6,7 +6,7 @@ Google did something right when they proposed community powered subtitles but th
 - revision control
 - discussion in the team of subbers
 - better attribution of the work that was made
-- financial support for the subbers to be enticed to contribute
+- financial support for the subbers to be enticed to contribute high quality subs
 
 Here are my subtitles, I encourage anyone doing subtitle work to open a repository on github as well and perharps we could build a subtitling platform that'd be open and enable us to collaborate to produce more high quality subtitles !
 
